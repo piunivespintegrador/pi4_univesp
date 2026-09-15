@@ -221,6 +221,6 @@ __marimo__/
 *.pyc
 
 # Dados coletados
-data/raw/
-data/*.csv
-data/*.json
+collect_data/data/raw/
+collect_data/data/*.csv
+collect_data/data/*.json

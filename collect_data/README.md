@@ -7,6 +7,8 @@ Script para obter dados para o Projeto Integrador IV, utilizando:
 - SteamSpy
 - Python + Pandas
 
+![Terminal](./images/terminal.png)
+
 ## 1. Criar ambiente
 
 ### Windows PowerShell
