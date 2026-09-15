@@ -3,7 +3,7 @@
 Script para obter dados para o Projeto Integrador IV, utilizando:
 
 - Google Trends
-- RAWG API
+- RAWG API (https://rawg.io/apidocs)
 - SteamSpy
 - Python + Pandas
 
@@ -31,6 +31,8 @@ Abra `.env` e coloque:
 ```env
 RAWG_API_KEY=SUA_CHAVE
 ```
+
+Acesse https://rawg.io/apidocs e crie sua RAWG_API_KEY
 
 OBS: Não coloque `.env` no Git. Ele já está no `.gitignore`.
 
