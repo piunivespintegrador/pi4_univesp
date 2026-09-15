@@ -32,10 +32,6 @@ Abra `.env` e coloque:
 RAWG_API_KEY=SUA_CHAVE
 ```
 
-```env
-STEAM_API_KEY=sua_chave_steam_aqui
-```
-
 OBS: Não coloque `.env` no Git. Ele já está no `.gitignore`.
 
 ## 3. Cadastrar jogos
