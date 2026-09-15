@@ -65,7 +65,7 @@ python collect_games.py --geo BR --timeframe "today 5-y"
 
 ## 5. Resultados
 
-O programa cria:
+O programa cria uma análise prévia dos dados:
 
 ```text
 data/
@@ -77,6 +77,8 @@ data/
 ├── collection_config.json
 └── raw/
 ```
+
+Onde a pasta `raw/` contém os dados brutos baixados
 
 ### Segurança
 
